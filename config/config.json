@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "movie_user",
+    "password": "movie_2021!",
+    "database": "movie_dev",
+    "host": "164.90.168.84",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "12345678",
+    "database": "moviedb",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
